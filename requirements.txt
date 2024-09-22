@@ -1,0 +1,9 @@
+fastapi
+httpx
+bs4
+pandas
+slowapi
+redis
+python-dotenv
+uvicorn
+lxml
